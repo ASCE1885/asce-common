@@ -8,7 +8,12 @@ import java.util.Locale;
 import android.os.Environment;
 import android.util.Log;
 
-
+/**
+ * 日志工具类,提供打印行号开关，打印到文件函数f()
+ * 
+ * @author gushizigege
+ * @date 2013-8-28
+ */
 public class LogUtil {
 	
 	private final static String DEFAULT_TAG = "BaiduTaxiDriver";

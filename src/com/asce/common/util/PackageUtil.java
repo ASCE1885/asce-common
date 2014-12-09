@@ -10,7 +10,7 @@ import android.os.Bundle;
 /**
  * package相关操作类
  * 
- * @author guhaoxin
+ * @author gushizigege
  * @date 2014-03-03
  * 
  */
